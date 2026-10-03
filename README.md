@@ -50,7 +50,7 @@ Following D-Vlog's setup, the dataset is split into train, validation and test s
 
 Furthermore, you can run ``lmvd_extract_npy.py`` to obtain .npy features to train the model. You also can make labels with this code ``lmvd_prepare_labels.py``.
 
-- **Note:** The pretrained model can be found [here](https://uofwaterloo-my.sharepoint.com/:u:/r/personal/mr3haque_uwaterloo_ca/Documents/visualmae_pretrained.pth?d=w65f48cf5ee9d44df952626ed3983f1d7&csf=1&web=1&e=neb09N). [`ckpt_path='../pretrained_models/visualmae_pretrained.pth'`]
+- **Note:** The pretrained model can be found [here](https://drive.google.com/file/d/1LRLu6vMzX-Kj4qalQwBFCtBXBK_A9S_N/view?usp=sharing). [`ckpt_path='../pretrained_models/visualmae_pretrained.pth'`]
 
 ---
 
